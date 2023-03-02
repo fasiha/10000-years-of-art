@@ -1,5 +1,12 @@
 # 10,000 Years of Art
 
+- [10,000 Years of Art](#10000-years-of-art)
+  - [56 Shang Dynasty Large Standing Figure](#56-shang-dynasty-large-standing-figure)
+  - [80 Nok Seated Dignitary](#80-nok-seated-dignitary)
+  - [92 Greco-Iberian Lady of Elche](#92-greco-iberian-lady-of-elche)
+  - [105 Eastern Zhou Dynasty/Warring States Period Gold Monster](#105-eastern-zhou-dynastywarring-states-period-gold-monster)
+  - [128 Zapotec Bat Mask](#128-zapotec-bat-mask)
+
 A list of art featured in Phaidon's *10,000 years of art* book, with open links.
 
 ## 56 Shang Dynasty Large Standing Figure
