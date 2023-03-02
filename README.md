@@ -26,6 +26,23 @@ Other coverage in English:
 - [Sixth Tone](https://www.sixthtone.com/news/1007021/Sanxingdui) by Cai Xuejiao and Liu Chuyue, with another brilliant example. 
 - [Reddit](https://www.reddit.com/r/ArtefactPorn/comments/yxa5a3/a_large_bronze_standing_figure_262m_tall/): "A large bronze standing figure (2.62m tall including its base) excavated from the sacrificial pit No.2 at Sanxingdui Ruins. The figure originally held something in its hands (probably an elephant tusk, a pile of which were found buried on site). 1700-1150 BC, Sanxingdui Museum in China"
 
+## 80 Nok Seated Dignitary
+> Circa 500 BCE. Nigeria. Terracotta. 92.1 by 27.6 by 35.6 cm. Unkown location (was in Minneapolis Institute of Art but was deaccessioned (i.e., left there) 2014-12-09).
+
+![Unknown source](./images/80/nok.jpg)
+
+Above: uncredited image used in "France returns Nok Terracotta illegally exported from Nigeria" on [Daily Post](https://dailypost.ng/2016/05/18/france-returns-nok-terracotta-illegally-exported-from-nigeria/).
+
+> The Nok culture of northern Nigeria, a civilization that existed from approximately 500 B.C. to about 500 A.D., is principally known for its terracotta figures. Relatively little is known about the purpose of these figures or the civilization that created such extraordinary sculptural representations of its people. A few of the remarkable characteristics that distinguish Nok pieces from terracottas of later cultures in Nigeria include the triangular, pierced eyes; the elaborate coiffure and beard; and the placement of the ears. This work depicts a person of high status wearing elaborate beaded jewelry, and with a crooked baton on his right arm and a hinged flail on the left. These are symbols of authority also found in ancient Egyptian depictions of the Pharaohs and the god Osiris. The Nok culture existed during the late Pharonic period and intra-African trading could have spread Egyptian influences into many other parts of Africa. (From [Minneapolis Institute of Art, archived by Archive.org](https://web.archive.org/web/20160310091558/https://collections.artsmia.org/art/5368/seated-dignitary-nok).)
+
+According to this archived link, the Minneapolis Institute of Art deaccessioned this piece on 2014-12-09. In 2016, the [Daily Post](https://dailypost.ng/2016/05/18/france-returns-nok-terracotta-illegally-exported-from-nigeria/) and others reported that "France has formally presented to Nigeria an artifact, a Terracotta figurative sculpture that was repatriated after it was intercepted in France while in transit from Togo to the United States in 2008", which means it's unlikely to be this piece, however, those articles often used this image above.
+
+While these are incredible pieces—see examples at [Wikipedia on Nok culture](https://en.wikipedia.org/wiki/Nok_culture)!—they are terribly trafficked, see
+- ["Inside the illicit trade in West Africa’s oldest artworks"](https://mg.co.za/africa/2020-10-25-inside-the-illicit-trade-in-west-africas-oldest-artworks/) and
+- ["Nok Terracottas" at Trafficking Culture](https://traffickingculture.org/encyclopedia/case-studies/nok-terracottas/)
+
+Information on where this piece is now would be greatly appreciated, as would a credit for the image above.
+
 ## 92 Greco-Iberian Lady of Elche
 > Circa 400 BCE. Spain. Painted limestone. 56 cm tall. Museo Arqueológico Nacional, Madrid, Spain.
 
