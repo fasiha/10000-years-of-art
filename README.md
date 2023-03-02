@@ -42,3 +42,16 @@ Above from [Wikimedia](https://commons.m.wikimedia.org/wiki/File:Gold_monster.jp
 ![From Reddit](./images/105/reddit.jpg)
 
 Above from [Reddit](https://www.reddit.com/r/ArtefactPorn/comments/jlwyvw/a_gold_mythical_beast_from_the_eastern_zhou/), unknown license. "A gold mythical beast from the Eastern Zhou Dynasty, China. Warring States Period, c. 300 BC, now on display at the Shaanxi Provincial History Museum"
+
+## 128 Bat Mask
+> Circa 50 BCE. Jadeite and shell. 38 cm. Oaxaca Gallery, Museo Nacional de Antropología, Mexico City, Mexico.
+
+![Wikimedia: Adrian Hernandez](./images/128/Mascara_Dios_Murcielago.jpg)
+
+Above from [Wikimedia: Adrian Hernandez](https://commons.wikimedia.org/wiki/File:Mascara_Dios_Murcielago.jpg). "Zapotec vampire bat mosaic mask made of 25 pieces of jade, with yellow eyes made of shell."
+
+![Wikimedia: Gary Todd](./images/128/gary-todd.jpg)
+
+Above montage from Wikimedia by Gary Todd ([a](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II.jpg) and [b](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II,_19cm.jpg)), "Zapotec Jade Bat God, Protoclassic, Monte Alban II"
+
+See also [Atlas Obscura](https://www.atlasobscura.com/places/mask-of-the-bat-god) entry: "This strange and sinister jade mask was discovered by archeologists excavating a tomb in the ruins of the ancient city of Monte Alban, once the heart of the powerful Zapotec civilization. Although some scholarly disagreement remains as to what purpose this mask served, it is overwhelmingly acknowledged that it portrays a bat… You can find the mask in the Oaxaca hall of the National Museum of Anthropology (Museo Nacional de Antropologia) in Chapultepec Park, along with many more batty artifacts."
