@@ -2,7 +2,7 @@
 
 A list of art featured in Phaidon's *10,000 years of art* book, with open links.
 
-## 56 Large Standing Figure
+## 56 Shang Dynasty Large Standing Figure
 > Circa 1150 BCE. China. Bronze. 180 cm (figure), 260.8 cm (full height, including base). Sanxingdui Museum, Guanghan City, Sichuan Province.
 
 ![From Wikipedia](./images/56/Bronze_Colossal_Standing_Figure_Sanxingdui_a.jpg)
@@ -26,7 +26,23 @@ Other coverage in English:
 - [Sixth Tone](https://www.sixthtone.com/news/1007021/Sanxingdui) by Cai Xuejiao and Liu Chuyue, with another brilliant example. 
 - [Reddit](https://www.reddit.com/r/ArtefactPorn/comments/yxa5a3/a_large_bronze_standing_figure_262m_tall/): "A large bronze standing figure (2.62m tall including its base) excavated from the sacrificial pit No.2 at Sanxingdui Ruins. The figure originally held something in its hands (probably an elephant tusk, a pile of which were found buried on site). 1700-1150 BC, Sanxingdui Museum in China"
 
-## 105 Gold Monster
+## 92 Greco-Iberian Lady of Elche
+> Circa 400 BCE. Spain. Painted limestone. 56 cm tall. Museo Arqueológico Nacional, Madrid, Spain.
+
+![From Wikimedia, Museo Arqueológico Nacional](./images/92/Dama_de_Elche.jpg)
+
+Above from [Wikimedia](https://commons.wikimedia.org/wiki/File:Dama_de_Elche.jpg), via Museo Arqueológico Nacional, CC BY-CA 2.5.
+
+> The Lady of Elche (in Spanish, Dama de Elche; in Valencian, Dama d'Elx) is a limestone bust that was discovered in 1897, at La Alcudia, an archaeological site on a private estate two kilometers south of Elche, Spain. It is generally known as an Iberian artifact from the 4th century BC, although the artisanship suggests strong Hellenistic influences. According to The Encyclopedia of Religion, the Lady of Elche is believed to have a direct association with Tanit, the goddess of Carthage, who was worshiped by the Punic-Iberians. ([Wikipedia](https://en.wikipedia.org/wiki/Lady_of_Elche))
+
+
+
+![From Wikimedia, Manuel Parada López de Corselas](./images/92/DamaElche01.JPG)
+
+Above from [Wikimedia: Manuel Parada López de Corselas](https://commons.wikimedia.org/wiki/File:DamaElche01.JPG), public domain.
+
+
+## 105 Eastern Zhou Dynasty/Warring States Period Gold Monster
 > Circa 300 BCE. China. Gold. 11.5 cm. Shaanxi History Museum, Xi'an.
 
 ![From Shaanxi History Museum](./images/105/sxhm.png)
@@ -43,15 +59,15 @@ Above from [Wikimedia](https://commons.m.wikimedia.org/wiki/File:Gold_monster.jp
 
 Above from [Reddit](https://www.reddit.com/r/ArtefactPorn/comments/jlwyvw/a_gold_mythical_beast_from_the_eastern_zhou/), unknown license. "A gold mythical beast from the Eastern Zhou Dynasty, China. Warring States Period, c. 300 BC, now on display at the Shaanxi Provincial History Museum"
 
-## 128 Bat Mask
+## 128 Zapotec Bat Mask
 > Circa 50 BCE. Jadeite and shell. 38 cm. Oaxaca Gallery, Museo Nacional de Antropología, Mexico City, Mexico.
 
 ![Wikimedia: Adrian Hernandez](./images/128/Mascara_Dios_Murcielago.jpg)
 
-Above from [Wikimedia: Adrian Hernandez](https://commons.wikimedia.org/wiki/File:Mascara_Dios_Murcielago.jpg). "Zapotec vampire bat mosaic mask made of 25 pieces of jade, with yellow eyes made of shell."
+Above from [Wikimedia: Adrian Hernandez](https://commons.wikimedia.org/wiki/File:Mascara_Dios_Murcielago.jpg), CC BY-SA 4.0. "Zapotec vampire bat mosaic mask made of 25 pieces of jade, with yellow eyes made of shell."
 
 ![Wikimedia: Gary Todd](./images/128/gary-todd.jpg)
 
-Above montage from Wikimedia by Gary Todd ([a](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II.jpg) and [b](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II,_19cm.jpg)), "Zapotec Jade Bat God, Protoclassic, Monte Alban II"
+Above montage from Wikimedia by Gary Todd ([a](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II.jpg) and [b](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II,_19cm.jpg), CC0 public domain), "Zapotec Jade Bat God, Protoclassic, Monte Alban II"
 
 See also [Atlas Obscura](https://www.atlasobscura.com/places/mask-of-the-bat-god) entry: "This strange and sinister jade mask was discovered by archeologists excavating a tomb in the ruins of the ancient city of Monte Alban, once the heart of the powerful Zapotec civilization. Although some scholarly disagreement remains as to what purpose this mask served, it is overwhelmingly acknowledged that it portrays a bat… You can find the mask in the Oaxaca hall of the National Museum of Anthropology (Museo Nacional de Antropologia) in Chapultepec Park, along with many more batty artifacts."
