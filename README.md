@@ -1,13 +1,37 @@
 # 10,000 Years of Art
 
+A list of art featured in Phaidon's *10,000 years of art* ([WorldCat](https://www.worldcat.org/title/308158805) to borrow from a nearby library; [Powells](https://www.powells.com/book/10000-years-of-art-9780714849690), [Goodreads](https://www.goodreads.com/book/show/6067824-10-000-years-of-art); ISBN 978-0-7148-4969-0) book, with links and images with credits.
+
+Someday we may have all 500 pieces from the book here—not yet! Numbers refer to the page number in the book.
+
 - [10,000 Years of Art](#10000-years-of-art)
+  - [11 Dabous Giraffes](#11-dabous-giraffes)
   - [56 Shang Dynasty Large Standing Figure](#56-shang-dynasty-large-standing-figure)
   - [80 Nok Seated Dignitary](#80-nok-seated-dignitary)
   - [92 Greco-Iberian Lady of Elche](#92-greco-iberian-lady-of-elche)
   - [105 Eastern Zhou Dynasty/Warring States Period Gold Monster](#105-eastern-zhou-dynastywarring-states-period-gold-monster)
   - [128 Zapotec Bat Mask](#128-zapotec-bat-mask)
 
-A list of art featured in Phaidon's *10,000 years of art* book, with open links.
+## 11 Dabous Giraffes
+> 7,000 to 10,000 years ago. Niger. Engraving on rock. 600 cm. Dabous, between Agadez and Arlit, Niger.
+
+![From Flickr](./images/11/flickr.jpg)
+
+Above: [Matthew Paulson](https://www.flickr.com/photos/matthewpaulson/6154211835/in/photolist-anPWLB) on Flickr, CC BY-SA-ND 2.0. A large relatively-flat stretch of rock largely parallel to the ground with a carving of two giraffes, the one on the left much larger than the one on the right, both facing left. The angle faces their feet. The outlines of both are carved but so are the individual irregular spots. Around the giraffes the rock bulges out, and in the background the desert floor shows the rock is a bit raised.
+
+![From National Geographic](./images/11/natgeo.jpg)
+
+Above: from National Geographic Magazine, September 2008, photo by Mike Hettwer for story, "Green Sahara" ([magazine archive link](https://archive.nationalgeographic.com/national-geographic/2008-sep/flipbook/142/)). The image is taken from the left of the giraffes, near their heads, so the larger giraffe on the left is facing us. His face and ears are outlined, and a few spots near the back of his face are carved. Two figures squat beyond them in desert garb, one pointing at the second smaller giraffe. They are small compared to the giraffes. Smaller indistinct petroglyphs are above the large giraffe's head.
+
+> Caption: "About the time prehistoric artists carved these life-size giraffes into an outcrop near the Aïr mountains, the Kiffian were living roughly 150 miles away in Gobero. Though their creator's identity remains a mystery, such petroglyphs record life flourishing during the Green Sahara."
+
+![From the Bradshaw Foundation](./images/11/dabous_giraffe2.jpg)
+
+Above: by the [Bradshaw Foundation](https://www.bradshawfoundation.com/giraffe/index.php), "Mapping the details of the carving". Another view of the larger giraffe from its feet, but the rock is overlaid with some long thin lengths of wood, and a person stands to the left writing notes. If the figure laid down, they might be as tall as the giraffe's leg.
+
+Further reading:
+- [Atlas Obscura](https://www.atlasobscura.com/places/dabous-giraffes)
+- [US Department of State Magazine](https://1997-2001.state.gov/www/publications/statemag/statemag_sept2000/feature2.html) (2000)
 
 ## 56 Shang Dynasty Large Standing Figure
 > Circa 1150 BCE. China. Bronze. 180 cm (figure), 260.8 cm (full height, including base). Sanxingdui Museum, Guanghan City, Sichuan Province.
