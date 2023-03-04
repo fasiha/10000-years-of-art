@@ -11,6 +11,7 @@ Someday we may have all 500 pieces from the book here—not yet! Numbers refer t
   - [92 Greco-Iberian Lady of Elche](#92-greco-iberian-lady-of-elche)
   - [105 Eastern Zhou Dynasty/Warring States Period Gold Monster](#105-eastern-zhou-dynastywarring-states-period-gold-monster)
   - [128 Zapotec Bat Mask](#128-zapotec-bat-mask)
+  - [234 Cahamana Santinatha Altarpiece](#234-cahamana-santinatha-altarpiece)
 
 ## 11 Dabous Giraffes
 > 7,000 to 10,000 years ago. Niger. Engraving on rock. 600 cm. Dabous, between Agadez and Arlit, Niger.
@@ -119,3 +120,20 @@ Above from [Wikimedia: Adrian Hernandez](https://commons.wikimedia.org/wiki/File
 Above montage from Wikimedia by Gary Todd ([a](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II.jpg) and [b](https://commons.wikimedia.org/wiki/File:Zapotec_Jade_Bat_God,_Protoclassic,_Monte_Alban_II,_19cm.jpg), CC0 public domain), "Zapotec Jade Bat God, Protoclassic, Monte Alban II"
 
 See also [Atlas Obscura](https://www.atlasobscura.com/places/mask-of-the-bat-god) entry: "This strange and sinister jade mask was discovered by archeologists excavating a tomb in the ruins of the ancient city of Monte Alban, once the heart of the powerful Zapotec civilization. Although some scholarly disagreement remains as to what purpose this mask served, it is overwhelmingly acknowledged that it portrays a bat… You can find the mask in the Oaxaca hall of the National Museum of Anthropology (Museo Nacional de Antropologia) in Chapultepec Park, along with many more batty artifacts."
+
+## 234 Cahamana Santinatha Altarpiece
+> 1168 CE. Rajasthan, India. Bronze, silver, and copper. 51.5 by 26.7 by 14 cm. Victoria and Albert Museum, London.
+
+![From the Victoria and Albert Museum](./images/234/vam.jpg)
+
+Above: from the [Victoria and Albert Museum](https://collections.vam.ac.uk/item/O25156/santinatha-figure-unknown/), under a license permitting personal study.
+
+> Physical description: The meditating figure of Shantinatha (Santinatha), the 16th Jaina Tirthankara, is seated in the padmasana posture, on a jewelled cushion richly decorated with silver and copper inlay. There is a tiny figure of the deer which is the symbol (lanchana) of this Tirthankara. The figure is beautifully modeled, with finely articulated hands and feet. The symmetrical curls of hair frame a face of serene calm. The prominent srivatsa mark on the chest is inlaid with silver and copper. The eyes are silver and were probably once set with precious stones and crystal, now missing. An aureole is given behind the head with lotus design. A portion on top of the aureole is missing, perhaps it held a chatravali (umbrellas). The elaborate back-rest of the throne is cast in two sections, the lower section shows the fly-whisk bearers and the leogryphs and male figures. Two garland-bearers (maladharas or vidyadharas) and two seated four-armed female figures (yakshis) are shown on the throne-bar. Elephants and drummers are shown on top. A meditating male figure seated in the lalitasana posture is illustrated on top in the centre. We are unable to identify this important figure. Branches of the Kevala tree of the Jina also are shown on top with pots. This image of Shantinatha is one of the finest twelfth-century western Indian Jain monumental bronze castings recorded. The modelling and casting of the backplate, however, gives the appearance of not being contemporary. In all probability it was cast as a replacement, perhaps as late as the fifteenth century. An inscription on the base of the image confirms the identity of the Jina and the date of its dedication.
+
+Gallery label:
+
+> The Jina Shantinatha 1168; the backplate about 1300–1500 Jains revere twenty-four Jinas (spiritual victors) who showed the way to escape the cycle of death and rebirth and achieve liberation. These Jinas are also known as Tirthankaras (ford-makers). Shantinatha, the 16th Jina, is said to have revived Jainism at a time when it was in danger of extinction. In this rare example of large- scale medieval bronze casting, he sits meditating on a cushion, flanked by flywhisk bearers and felicitated by celestial musicians and garland bearers. Copper alloy with silver and copper inlay Probably western India (Rajasthan) With an inscription dedicating it to the triumph of Sri Shantinatha in the year of Vikrama-Samvat 1224 (1168 AD) Museum no. 930(IS) (06/06/2011)
+>
+> SANTINATHA Bronze Probably Rajasthan, Western India Cahamana period, dated to 1168 A.D. The meditating figure of Santinatha, the 16th Jain tirthankara, is seated on a cushion flanked by attendants holding fly-whisks (chauri). The highly elaborate backplate (torana) is decorated with celestial attendants, elephants and musicians. This is a rare example of monumental bronze-casting from the medieval period and bears an inscription dedicating it to the triumph of Sri Santinatha in the year of Vikrama-samvat 1224 (1168 A.D.). 930(IS) (c.1988-2010)
+
+See [Flickr](https://flic.kr/p/brtHyS) for a closeup.
