@@ -12,6 +12,7 @@ Someday we may have all 500 pieces from the book here—not yet! Numbers refer t
   - [105 Eastern Zhou Dynasty/Warring States Period Gold Monster](#105-eastern-zhou-dynastywarring-states-period-gold-monster)
   - [128 Zapotec Bat Mask](#128-zapotec-bat-mask)
   - [234 Cahamana Santinatha Altarpiece](#234-cahamana-santinatha-altarpiece)
+  - [235 Romanesque Norwegian](#235-romanesque-norwegian)
 
 ## 11 Dabous Giraffes
 > 7,000 to 10,000 years ago. Niger. Engraving on rock. 600 cm. Dabous, between Agadez and Arlit, Niger.
@@ -137,3 +138,16 @@ Gallery label:
 > SANTINATHA Bronze Probably Rajasthan, Western India Cahamana period, dated to 1168 A.D. The meditating figure of Santinatha, the 16th Jain tirthankara, is seated on a cushion flanked by attendants holding fly-whisks (chauri). The highly elaborate backplate (torana) is decorated with celestial attendants, elephants and musicians. This is a rare example of monumental bronze-casting from the medieval period and bears an inscription dedicating it to the triumph of Sri Santinatha in the year of Vikrama-samvat 1224 (1168 A.D.). 930(IS) (c.1988-2010)
 
 See [Flickr](https://flic.kr/p/brtHyS) for a closeup.
+
+## 235 Romanesque Norwegian
+> Circa 1150 to 1200 CE. Norway. Walrus ivory. 9.6 by 5 by 3.4 cm (156 grams). British Museum, London.
+
+![From the British Museum](./images/235/back-front.jpg)
+
+Above: side-by-side montage from the British Museum: [a](https://www.britishmuseum.org/collection/object/H_1831-1101-84) and [b](https://www.britishmuseum.org/collection/image/286228001), both CC BY-NC-SA 4.0, showing the front and back.
+
+> Chess-piece; walrus ivory; queen wearing floriated crown over veil, mantle; holding horn; right hand placed on cheek; seated in chair ornamented on back with adjacent leaf scrolls with animal-heads on top of uprights; chair sides: interlace ornament.
+
+![Group shot from the British Museum](images/235/1612939104.jpg)
+
+Above: also from the [British Museum](https://www.britishmuseum.org/collection/image/1612939104), same license. Group shot of some of the Lewis Chessmen, including the queen above, as well as the king, a bishop, a knight, a pawn, and two small knobs? The king is bigger than the queen and is holding a sword in both hands across his knees. The bishop has a cleric's hat and staff and holding his other hand up in benediction. The helmeted knight is carrying a shield and riding a horse. The pawn is half the size of the rest, wearing a helmet, holding a sword and shield.
